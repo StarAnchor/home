@@ -2,7 +2,7 @@
 import fetchJsonp from "fetch-jsonp";
 
 /**
- * 音乐播放器
+ * 音乐播放
  */
 
 // 获取音乐播放列表
